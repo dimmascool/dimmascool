@@ -5,5 +5,5 @@ My name is Dimas Adam Saputra, you can call me dimas or samid and my favorite pr
 
 
 - 🔭 I’m currently working on PHP project
-- 🌱 I’m currently learning PHP and JavaScript
+- 🌱 I’m currently learning PHP, JavaScript, Elixir & Kotlin
 
